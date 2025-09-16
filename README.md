@@ -423,7 +423,7 @@ For support or questions:
 
 **Coast** (leancoast)
 - Discord: leancoast
-- GitHub: [Your GitHub Profile]
+- GitHub: [https://github.com/leancoast]
 
 ### 🙏 Acknowledgments
 
@@ -441,7 +441,7 @@ This project is licensed under the ISC License.
 
 **Made with ❤️ by Coast**
 
-[![Discord](https://img.shields.io/badge/Discord-leancoast-7289da?style=flat&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Coast-black?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
+[![Discord](https://img.shields.io/badge/Discord-leancoast-7289da?style=flat&logo=discord&logoColor=white)](https://discord.gg/tYF7etw5bv)
+[![GitHub](https://img.shields.io/badge/GitHub-Coast-black?style=flat&logo=github&logoColor=white)](https://github.com/leancoast)
 
 </div>
